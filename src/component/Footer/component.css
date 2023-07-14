@@ -1,0 +1,518 @@
+.component {
+  background-color: #202121;
+  height: 500px;
+  margin-left: 40px;
+  position: relative;
+  overflow: hidden;
+  width: 1440px;
+  margin-top: -550px;
+}
+
+.component .signup-and-start {
+  color: #ffffff;
+  font-family: "Urbanist-ExtraBold", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  left: 75px;
+  letter-spacing: 0.19px;
+  line-height: 33.6px;
+  position: absolute;
+  top: 168px;
+  width: 440px;
+}
+
+.component .sign-up-button {
+  height: 60px;
+  left: 75px;
+  position: absolute;
+  top: 261px;
+  width: 202px;
+}
+
+.component .overlap-group {
+  background-color: #7c5ac7;
+  border-radius: 20px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 60px;
+  position: relative;
+  width: 200px;
+}
+
+.component .sign-up-to-lilypads {
+  color: #ffffff;
+  font-family: "Urbanist-ExtraBold", Helvetica;
+  font-size: 14px;
+  font-weight: 800;
+  left: 36px;
+  letter-spacing: 0.06px;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.component .newsketter {
+  height: 55px;
+  left: 75px;
+  position: absolute;
+  top: 64px;
+  width: 444px;
+}
+
+.component .overlap {
+  background-color: #2022214c;
+  border: 1px solid;
+  border-color: #ffffff4c;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 55px;
+  position: relative;
+  width: 440px;
+}
+
+.component .subscribe-to-wrapper {
+  background-color: #2d302f;
+  border-radius: 15px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 45px;
+  left: 250px;
+  position: absolute;
+  top: 5px;
+  width: 185px;
+}
+
+.component .subscribe-to {
+  color: #ffffff;
+  font-family: "Urbanist-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0.05px;
+  line-height: 16.8px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.component .enter-your-email {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 14px;
+  letter-spacing: 0.06px;
+  line-height: 19.6px;
+  opacity: 0.3;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.component .facebook {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 75px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
+
+.component .img {
+  height: 20px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 20px;
+}
+
+.component .twitter {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 140px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
+
+.component .linkedin {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 205px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
+
+.component .main-logo {
+  height: 70px;
+  left: 745px;
+  position: absolute;
+  top: 70px;
+  width: 119px;
+}
+
+.component .network {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 179px;
+  white-space: nowrap;
+}
+
+.component .community {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 204px;
+  white-space: nowrap;
+}
+
+.component .text-wrapper {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.component .broker {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.component .product {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 179px;
+  white-space: nowrap;
+}
+
+.component .reach-us-at {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+}
+
+.component .our-story {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 179px;
+  white-space: nowrap;
+}
+
+.component .invest {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 204px;
+  white-space: nowrap;
+}
+
+.component .approach {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 204px;
+  white-space: nowrap;
+}
+
+.component .discover {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.component .aboutus {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.component .transact {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 254px;
+  white-space: nowrap;
+}
+
+.component .manage {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 279px;
+  white-space: nowrap;
+}
+
+.component .technology {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.component .artificial {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 353px;
+  white-space: nowrap;
+}
+
+.component .block-chain {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 745px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 378px;
+  white-space: nowrap;
+}
+
+.component .div {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.component .impact-of-COVID {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 353px;
+  width: 200px;
+}
+
+.component .element-columbia {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 94px;
+  width: 180px;
+}
+
+.component .commercial-lending {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 935px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 416px;
+  width: 200px;
+}
+
+.component .knowledge-center {
+  color: #ffffff;
+  font-family: "Urbanist-SemiBold", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 324px;
+  white-space: nowrap;
+}
+
+.component .resource {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 353px;
+  white-space: nowrap;
+}
+
+.component .blog {
+  color: #ffffff;
+  font-family: "Urbanist-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 1175px;
+  letter-spacing: 0.1px;
+  line-height: 16.8px;
+  opacity: 0.6;
+  position: absolute;
+  top: 378px;
+  white-space: nowrap;
+}
+
+.component .line {
+  height: 380px;
+  left: 670px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.component .youtube {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 270px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
+
+.component .medium {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 335px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
+
+.component .pinterest {
+  background-color: #ffffff;
+  border-radius: 25px;
+  box-shadow: 0px 6px 10px 2px #00000026;
+  height: 50px;
+  left: 400px;
+  position: absolute;
+  top: 360px;
+  width: 50px;
+}
